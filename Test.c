@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include <math.h>
 
 int tinhTuoi(int namSinh);
 int phuongTrinhBacNhat(int a, int b);

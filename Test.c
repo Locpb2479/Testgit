@@ -46,7 +46,7 @@ int main() {
 
     int a = 6;
     bitCount(a);
-
+    printf("Test git - TTin");
 
     return 0;
 }
